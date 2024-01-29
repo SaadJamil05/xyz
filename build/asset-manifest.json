@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4f0d6bd.css",
+    "main.js": "/static/js/main.dcb56303.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/event.png": "/static/media/event.1935a50159c8487d24be.png",
+    "static/media/e-ticketing.jpg": "/static/media/e-ticketing.b60f5aa629121b8690a5.jpg",
+    "static/media/ticket_default.PNG": "/static/media/ticket_default.921bdf0806ac64856db9.PNG",
+    "static/media/InstaPass.png": "/static/media/InstaPass.f264af5bffca4de88a02.png",
+    "static/media/instapassLogo.png": "/static/media/instapassLogo.2c1cda4b19c7246b88eb.png",
+    "index.html": "/index.html",
+    "main.f4f0d6bd.css.map": "/static/css/main.f4f0d6bd.css.map",
+    "main.dcb56303.js.map": "/static/js/main.dcb56303.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f0d6bd.css",
+    "static/js/main.dcb56303.js"
+  ]
+}
