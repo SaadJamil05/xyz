@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.896a173f.css",
-    "main.js": "/static/js/main.9c8db6a4.js",
+    "main.css": "/static/css/main.4a03203c.css",
+    "main.js": "/static/js/main.e986c866.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/event.png": "/static/media/event.1935a50159c8487d24be.png",
@@ -9,12 +9,12 @@
     "static/media/InstaPass.png": "/static/media/InstaPass.f264af5bffca4de88a02.png",
     "static/media/instapassLogo.png": "/static/media/instapassLogo.2c1cda4b19c7246b88eb.png",
     "index.html": "/index.html",
-    "main.896a173f.css.map": "/static/css/main.896a173f.css.map",
-    "main.9c8db6a4.js.map": "/static/js/main.9c8db6a4.js.map",
+    "main.4a03203c.css.map": "/static/css/main.4a03203c.css.map",
+    "main.e986c866.js.map": "/static/js/main.e986c866.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.896a173f.css",
-    "static/js/main.9c8db6a4.js"
+    "static/css/main.4a03203c.css",
+    "static/js/main.e986c866.js"
   ]
 }
