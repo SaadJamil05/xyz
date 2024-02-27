@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.03306aee.css",
-    "main.js": "/static/js/main.ffcda484.js",
+    "main.css": "/static/css/main.4d9aba27.css",
+    "main.js": "/static/js/main.eb80d27d.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/s2.png": "/static/media/s2.ec930d17c7b7625ced9c.png",
     "static/media/arial.ttf": "/static/media/arial.c54859dda733c50328d8.ttf",
     "static/media/s1.png": "/static/media/s1.b43a6753e542b92fe762.png",
+    "static/media/logo.gif": "/static/media/logo.eb5017434d8c727b8019.gif",
     "static/media/Tahoma Regular font.ttf": "/static/media/Tahoma Regular font.d8d0695069632bde2fbf.ttf",
     "static/media/event.png": "/static/media/event.1935a50159c8487d24be.png",
     "static/media/e-ticketing.jpg": "/static/media/e-ticketing.b60f5aa629121b8690a5.jpg",
@@ -14,6 +15,7 @@
     "static/media/InstaPass.png": "/static/media/InstaPass.f264af5bffca4de88a02.png",
     "static/media/lc.png": "/static/media/lc.fc35dfb6613af4b8fd23.png",
     "static/media/s4.png": "/static/media/s4.5931742fa8f17d056b44.png",
+    "static/media/NotFound.svg": "/static/media/NotFound.e8e9200a91766d977eaa08f2eb2531b6.svg",
     "static/media/s3.png": "/static/media/s3.bb82692a303149a07290.png",
     "static/media/instapassLogo.png": "/static/media/instapassLogo.2c1cda4b19c7246b88eb.png",
     "static/media/Booking Icon.svg": "/static/media/Booking Icon.0ebb516a4c00618b4641acd3c4724175.svg",
@@ -40,12 +42,12 @@
     "static/media/cross.svg": "/static/media/cross.a136e0da36215bfae1c3960a7869c4ba.svg",
     "static/media/TicketV.svg": "/static/media/TicketV.dda35d812d2cbad1d7cf452238966acf.svg",
     "static/media/venmo.svg": "/static/media/venmo.42f9f3a51ae44e1fed5fa71b4df184f1.svg",
-    "main.03306aee.css.map": "/static/css/main.03306aee.css.map",
-    "main.ffcda484.js.map": "/static/js/main.ffcda484.js.map",
+    "main.4d9aba27.css.map": "/static/css/main.4d9aba27.css.map",
+    "main.eb80d27d.js.map": "/static/js/main.eb80d27d.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03306aee.css",
-    "static/js/main.ffcda484.js"
+    "static/css/main.4d9aba27.css",
+    "static/js/main.eb80d27d.js"
   ]
 }
