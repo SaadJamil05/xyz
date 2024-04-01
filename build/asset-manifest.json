@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e170ff2.css",
-    "main.js": "/static/js/main.8a7ad8df.js",
+    "main.css": "/static/css/main.cd60df93.css",
+    "main.js": "/static/js/main.3830ca70.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/logo.gif": "/static/media/logo.7acdf76061d995364ea7.gif",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
@@ -29,6 +29,7 @@
     "static/media/CategoryTheaters.png": "/static/media/CategoryTheaters.ec4f919007e29033c09c.png",
     "static/media/instapassLogo.png": "/static/media/instapassLogo.2c1cda4b19c7246b88eb.png",
     "static/media/Booking Icon.svg": "/static/media/Booking Icon.05c53667348f32e7a1e040c9891cfe10.svg",
+    "static/media/Apple.svg": "/static/media/Apple.e1f20380147682b9b14fc36ffc2a7426.svg",
     "static/media/paypal.svg": "/static/media/paypal.f5ab7ebbc89bc1b072c3e34da554b479.svg",
     "static/media/Gpay.svg": "/static/media/Gpay.2a1873ffa4dd3e5cfcc21b3cdd7333d3.svg",
     "static/media/Credit card.svg": "/static/media/Credit card.e5b3bd4d18121c905379bdc9875bd1a3.svg",
@@ -54,13 +55,12 @@
     "static/media/Vectorwhite.svg": "/static/media/Vectorwhite.eb8414f83b292d90819e0940064106bc.svg",
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
-    "static/media/venmo.svg": "/static/media/venmo.0d15a84647e1630a34556f4472ef4f5c.svg",
-    "main.3e170ff2.css.map": "/static/css/main.3e170ff2.css.map",
-    "main.8a7ad8df.js.map": "/static/js/main.8a7ad8df.js.map",
+    "main.cd60df93.css.map": "/static/css/main.cd60df93.css.map",
+    "main.3830ca70.js.map": "/static/js/main.3830ca70.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e170ff2.css",
-    "static/js/main.8a7ad8df.js"
+    "static/css/main.cd60df93.css",
+    "static/js/main.3830ca70.js"
   ]
 }
