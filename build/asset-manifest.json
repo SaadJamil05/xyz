@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.add4b260.css",
-    "main.js": "/static/js/main.b3716ad0.js",
+    "main.js": "/static/js/main.7f5e22ce.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
-    "static/media/logo.gif": "/static/media/logo.7acdf76061d995364ea7.gif",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
+    "static/media/logo3d.gif": "/static/media/logo3d.5e97ecdcd80012865e00.gif",
     "static/media/s2.png": "/static/media/s2.ec930d17c7b7625ced9c.png",
     "static/media/arial.ttf": "/static/media/arial.c54859dda733c50328d8.ttf",
     "static/media/s1.png": "/static/media/s1.b43a6753e542b92fe762.png",
@@ -58,11 +58,11 @@
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
     "main.add4b260.css.map": "/static/css/main.add4b260.css.map",
-    "main.b3716ad0.js.map": "/static/js/main.b3716ad0.js.map",
+    "main.7f5e22ce.js.map": "/static/js/main.7f5e22ce.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.add4b260.css",
-    "static/js/main.b3716ad0.js"
+    "static/js/main.7f5e22ce.js"
   ]
 }
