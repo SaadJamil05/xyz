@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.add4b260.css",
-    "main.js": "/static/js/main.7f5e22ce.js",
+    "main.css": "/static/css/main.3076af8b.css",
+    "main.js": "/static/js/main.af3e7258.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/logo3d.gif": "/static/media/logo3d.5e97ecdcd80012865e00.gif",
@@ -9,6 +9,7 @@
     "static/media/arial.ttf": "/static/media/arial.c54859dda733c50328d8.ttf",
     "static/media/s1.png": "/static/media/s1.b43a6753e542b92fe762.png",
     "static/media/About.png": "/static/media/About.becd3fdefecb88041d86.png",
+    "static/media/newsfeed.png": "/static/media/newsfeed.0cd104cb5742e2c5a879.png",
     "static/media/splasscreen.gif": "/static/media/splasscreen.813397da567ebee16774.gif",
     "static/media/blog1image.png": "/static/media/blog1image.1ffc92f42e469de5514a.png",
     "static/media/Tahoma Regular font.ttf": "/static/media/Tahoma Regular font.d8d0695069632bde2fbf.ttf",
@@ -57,12 +58,12 @@
     "static/media/Vectorwhite.svg": "/static/media/Vectorwhite.eb8414f83b292d90819e0940064106bc.svg",
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
-    "main.add4b260.css.map": "/static/css/main.add4b260.css.map",
-    "main.7f5e22ce.js.map": "/static/js/main.7f5e22ce.js.map",
+    "main.3076af8b.css.map": "/static/css/main.3076af8b.css.map",
+    "main.af3e7258.js.map": "/static/js/main.af3e7258.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.add4b260.css",
-    "static/js/main.7f5e22ce.js"
+    "static/css/main.3076af8b.css",
+    "static/js/main.af3e7258.js"
   ]
 }
