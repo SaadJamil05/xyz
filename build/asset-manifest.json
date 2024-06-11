@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.26df4017.css",
-    "main.js": "/static/js/main.5d80eba3.js",
+    "main.css": "/static/css/main.a5a97d3e.css",
+    "main.js": "/static/js/main.c273ec4b.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/logo3d.gif": "/static/media/logo3d.5e97ecdcd80012865e00.gif",
@@ -58,12 +58,12 @@
     "static/media/Vectorwhite.svg": "/static/media/Vectorwhite.eb8414f83b292d90819e0940064106bc.svg",
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
-    "main.26df4017.css.map": "/static/css/main.26df4017.css.map",
-    "main.5d80eba3.js.map": "/static/js/main.5d80eba3.js.map",
+    "main.a5a97d3e.css.map": "/static/css/main.a5a97d3e.css.map",
+    "main.c273ec4b.js.map": "/static/js/main.c273ec4b.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26df4017.css",
-    "static/js/main.5d80eba3.js"
+    "static/css/main.a5a97d3e.css",
+    "static/js/main.c273ec4b.js"
   ]
 }
