@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c322be6c.css",
-    "main.js": "/static/js/main.a14f878c.js",
+    "main.css": "/static/css/main.1ebfa7ac.css",
+    "main.js": "/static/js/main.d08fc026.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/logo3d.gif": "/static/media/logo3d.5e97ecdcd80012865e00.gif",
@@ -14,7 +14,6 @@
     "static/media/blog1image.png": "/static/media/blog1image.1ffc92f42e469de5514a.png",
     "static/media/Tahoma Regular font.ttf": "/static/media/Tahoma Regular font.d8d0695069632bde2fbf.ttf",
     "static/media/event.png": "/static/media/event.1935a50159c8487d24be.png",
-    "static/media/e-ticketing.jpg": "/static/media/e-ticketing.b60f5aa629121b8690a5.jpg",
     "static/media/aboutE.png": "/static/media/aboutE.a04965a466486ebdc98a.png",
     "static/media/tc.png": "/static/media/tc.6d595672b688c95c0d15.png",
     "static/media/blogimage3.png": "/static/media/blogimage3.7fe31cae6f0e90f75623.png",
@@ -58,12 +57,12 @@
     "static/media/Vectorwhite.svg": "/static/media/Vectorwhite.eb8414f83b292d90819e0940064106bc.svg",
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
-    "main.c322be6c.css.map": "/static/css/main.c322be6c.css.map",
-    "main.a14f878c.js.map": "/static/js/main.a14f878c.js.map",
+    "main.1ebfa7ac.css.map": "/static/css/main.1ebfa7ac.css.map",
+    "main.d08fc026.js.map": "/static/js/main.d08fc026.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c322be6c.css",
-    "static/js/main.a14f878c.js"
+    "static/css/main.1ebfa7ac.css",
+    "static/js/main.d08fc026.js"
   ]
 }
