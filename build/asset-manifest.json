@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ebfa7ac.css",
-    "main.js": "/static/js/main.d08fc026.js",
+    "main.css": "/static/css/main.673d054e.css",
+    "main.js": "/static/js/main.01c357d2.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/logo3d.gif": "/static/media/logo3d.5e97ecdcd80012865e00.gif",
@@ -10,14 +10,12 @@
     "static/media/s1.png": "/static/media/s1.b43a6753e542b92fe762.png",
     "static/media/About.png": "/static/media/About.becd3fdefecb88041d86.png",
     "static/media/newsfeed.png": "/static/media/newsfeed.0cd104cb5742e2c5a879.png",
-    "static/media/splasscreen.gif": "/static/media/splasscreen.813397da567ebee16774.gif",
     "static/media/blog1image.png": "/static/media/blog1image.1ffc92f42e469de5514a.png",
     "static/media/Tahoma Regular font.ttf": "/static/media/Tahoma Regular font.d8d0695069632bde2fbf.ttf",
     "static/media/event.png": "/static/media/event.1935a50159c8487d24be.png",
     "static/media/aboutE.png": "/static/media/aboutE.a04965a466486ebdc98a.png",
     "static/media/tc.png": "/static/media/tc.6d595672b688c95c0d15.png",
     "static/media/blogimage3.png": "/static/media/blogimage3.7fe31cae6f0e90f75623.png",
-    "static/media/InstaPass.png": "/static/media/InstaPass.f264af5bffca4de88a02.png",
     "static/media/blogimage2.png": "/static/media/blogimage2.aefa5fe1bf8e588a925d.png",
     "static/media/aboutm.png": "/static/media/aboutm.bf050c109903ec9c5930.png",
     "static/media/s4.png": "/static/media/s4.5931742fa8f17d056b44.png",
@@ -57,12 +55,12 @@
     "static/media/Vectorwhite.svg": "/static/media/Vectorwhite.eb8414f83b292d90819e0940064106bc.svg",
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
-    "main.1ebfa7ac.css.map": "/static/css/main.1ebfa7ac.css.map",
-    "main.d08fc026.js.map": "/static/js/main.d08fc026.js.map",
+    "main.673d054e.css.map": "/static/css/main.673d054e.css.map",
+    "main.01c357d2.js.map": "/static/js/main.01c357d2.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ebfa7ac.css",
-    "static/js/main.d08fc026.js"
+    "static/css/main.673d054e.css",
+    "static/js/main.01c357d2.js"
   ]
 }
