@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.11e7058f.css",
-    "main.js": "/static/js/main.39191203.js",
+    "main.js": "/static/js/main.db920447.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/deafullogo.png": "/static/media/deafullogo.87bc5374a321eaaa15a3.png",
     "static/media/logo3d.gif": "/static/media/logo3d.5e97ecdcd80012865e00.gif",
@@ -48,11 +48,11 @@
     "static/media/TicketV.svg": "/static/media/TicketV.bd94446323ced8d594bd80b1bf2a6be6.svg",
     "static/media/VectorMain.svg": "/static/media/VectorMain.1439027c466f43f14166e8ff18d6fe25.svg",
     "main.11e7058f.css.map": "/static/css/main.11e7058f.css.map",
-    "main.39191203.js.map": "/static/js/main.39191203.js.map",
+    "main.db920447.js.map": "/static/js/main.db920447.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11e7058f.css",
-    "static/js/main.39191203.js"
+    "static/js/main.db920447.js"
   ]
 }
